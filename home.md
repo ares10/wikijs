@@ -1,6 +1,8 @@
 <!-- TITLE: Digital OnUs Backend Practice -->
 <!-- SUBTITLE: Share & Learn -->
 
+[Practice Values](share_and_learn) | [Share & Learn](share_and_learn) | [Code Snippets](code_snippets) | [Architecture & Design](code_snippets)| [Implementation Patterns](code_snippets) | [Devops and Automatiion](code_snippets)
+
 Welcome to the home of the Backend Practice.
 
 -----
